@@ -191,4 +191,4 @@ This repository serves as the official landing page for StaffPad. The software i
 **Get the most recent version of StaffPad today!**
 
 ---
-**Last updated:** 2026-11-12 18:00:38 UTC
+**Last updated:** 2026-11-13 00:00:02 UTC
